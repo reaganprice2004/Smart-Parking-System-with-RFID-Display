@@ -1,5 +1,6 @@
 # 🧠🚗 Smart-Parking-System-with-RFID-Display
 **Course:** ISE-102: Intro to Intelligent Systems
+
 **Timeline**: February 2024-May 2024
 
 ## 📖 Abstract
