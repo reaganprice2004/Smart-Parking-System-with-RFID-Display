@@ -42,3 +42,4 @@ Our smart parking system enhances space optimization, improves traffic flow, and
 - And others as cited in my project report!
 
 ## 📚 License
+MIT - This project was created for educational purposes as part of the ISE-102 Intro to ISE course. Free to use and modify with attribution!
