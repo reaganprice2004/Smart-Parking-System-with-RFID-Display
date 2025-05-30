@@ -3,7 +3,7 @@
 
 **Timeline**: February 2024-May 2024
 
-**Important Note**: This project was chosen out of 14 projects to be presented at the Spring 2024 Computing Showcase at the University of North Carolina Wilmington. After final presentation, it earned a solid grade of 107%.
+**Important Note**: This project was chosen out of 14 projects in my class to be presented at the Spring 2024 Computing Showcase at the University of North Carolina Wilmington. After final presentation, it earned a solid grade of 107%.
 
 ## 📖 Abstract
 This project presents the design and implementation of a smart parking system using an Arduino Uno microcontroller. It integrates infrared (IR) sensors for vehicle detection, an RFID reader for secure access control, a servo motor to operate the gate, and a 20x4 LCD display to provide real-time feedback to users. The system efficiently monitors parking availability and automates entry and exit, enhancing security and user experience.
