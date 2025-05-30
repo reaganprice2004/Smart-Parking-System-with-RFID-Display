@@ -2,6 +2,7 @@
 **Course:** ISE-102: Intro to Intelligent Systems
 
 **Timeline**: February 2024-May 2024
+
 **Important Note**: This project was chosen out of 14 projects to be presented at the Spring 2024 Computing Showcase at the University of North Carolina Wilmington. After final presentation, it earned a solid grade of 107%.
 
 ## 📖 Abstract
